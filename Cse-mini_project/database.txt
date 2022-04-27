@@ -1,0 +1,133 @@
+
+Text ->  i saw a lion suddenly
+Predicted emotion ->  sadness
+Confidence rate -> 60.140525920544576
+
+Text ->  I suddenly saw a snake and screamed aloud
+Predicted emotion ->  fear
+Confidence rate -> 63.98324559936789
+
+Text ->  I suddenly saw a snake and screamed aloud
+Predicted emotion ->  fear
+Confidence rate -> 63.98324559936789
+
+Text ->  HAPPY
+Predicted emotion ->  joy
+Confidence rate -> 90.0
+
+Text ->  HAPPY
+Predicted emotion ->  joy
+Confidence rate -> 90.0
+
+Text ->  I suddenly saw a snake and screamed aloud
+Predicted emotion ->  fear
+Confidence rate -> 63.98324559936789
+
+Text ->  I suddenly saw a snake and screamed aloud
+Predicted emotion ->  fear
+Confidence rate -> 63.98324559936789
+
+Text ->  I suddenly saw a snake and screamed aloud
+Predicted emotion ->  fear
+Confidence rate -> 63.98324559936789
+
+Text ->  HAPPY
+Predicted emotion ->  joy
+Confidence rate -> 90.0
+
+Text ->  I suddenly saw a snake and screamed aloud
+Predicted emotion ->  fear
+Confidence rate -> 63.98324559936789
+
+Text ->  I suddenly saw a snake and screamed aloud
+Predicted emotion ->  fear
+Confidence rate -> 63.98324559936789
+
+Text ->  Alas, I missed the bus
+Predicted emotion ->  sadness
+Confidence rate -> 90.0
+
+Text ->  I am really excited to go to beach today
+Predicted emotion ->  joy
+Confidence rate -> 89.07548863644502
+
+Text ->  I don't know how to express my feeling when she is around me
+Predicted emotion ->  sadness
+Confidence rate -> 50.0
+
+Text ->  I am shocked to see him and I am really happy about it
+Predicted emotion ->  surprise
+Confidence rate -> 70.0
+
+Text ->  Alas, I missed the bus
+Predicted emotion ->  sadness
+Confidence rate -> 90.0
+
+Text ->  Alas, I missed the bus but I am glad that I can spend extra time with my friend happily
+Predicted emotion ->  joy
+Confidence rate -> 80.4906956059082
+
+Text ->  I suddenly saw a snake and screamed aloud
+Predicted emotion ->  fear
+Confidence rate -> 63.98324559936789
+
+Text ->  I suddenly saw a snake and screamed aloud
+Predicted emotion ->  fear
+Confidence rate -> 63.98324559936789
+
+Text ->  I suddenly saw a snake and screamed aloud
+Predicted emotion ->  fear
+Confidence rate -> 63.98324559936789
+
+Text ->  It is really exciting for me to go to the zoo today
+Predicted emotion ->  joy
+Confidence rate -> 80.24329200020945
+
+Text ->  I suddenly saw a snake and screamed aloud
+Predicted emotion ->  fear
+Confidence rate -> 63.98324559936789
+
+Text ->  I  saw a snake and screamed aloud
+Predicted emotion ->  fear
+Confidence rate -> 50.03353804351899
+
+Text ->  It is really exciting for me to go to the zoo today
+Predicted emotion ->  joy
+Confidence rate -> 80.24329200020945
+
+Text ->  i am really amazed by the scenary besides the seashore
+Predicted emotion ->  surprise
+Confidence rate -> 88.03108158203243
+
+Text ->  i am really amazed by the scenary besides the seashore and felt pleasant
+Predicted emotion ->  joy
+Confidence rate -> 74.73647129020435
+
+Text ->  i am really amazed by the scenary besides the seashore and felt pleasant
+Predicted emotion ->  joy
+Confidence rate -> 74.73647129020435
+
+Text ->  i am really amazed by the scenary besides the seashore and felt pleasant
+Predicted emotion ->  joy
+Confidence rate -> 74.73647129020435
+
+Text ->  i am really amazed by the scenary besides the seashore 
+Predicted emotion ->  surprise
+Confidence rate -> 88.03108158203243
+
+Text ->  i am really amazed by the scenary besides the seashore 
+Predicted emotion ->  surprise
+Confidence rate -> 88.03108158203243
+
+Text ->  i am really amazed by the scenary besides the seashore
+Predicted emotion ->  surprise
+Confidence rate -> 88.03108158203243
+
+Text ->  I suddenly saw a snake and screamed aloud
+Predicted emotion ->  fear
+Confidence rate -> 63.98324559936789
+
+Text ->  i am really amazed by the scenary besides the seashore
+Predicted emotion ->  surprise
+Confidence rate -> 88.03108158203243
+
